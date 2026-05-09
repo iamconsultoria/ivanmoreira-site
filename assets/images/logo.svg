@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 36" fill="none">
+  <!-- Pillar-peak mark -->
+  <g>
+    <!-- Left pillar -->
+    <rect x="0" y="13" width="5.5" height="21" fill="#B5593A"/>
+    <!-- Right pillar -->
+    <rect x="13.5" y="13" width="5.5" height="21" fill="#B5593A"/>
+    <!-- Peak -->
+    <polygon points="0,14 19,14 9.5,2" fill="#B5593A"/>
+  </g>
+  <!-- Wordmark -->
+  <text x="28" y="26" font-family="Georgia, 'Times New Roman', serif" font-size="13.5" letter-spacing="2.5" fill="#F8F5F0" font-weight="400">IVAN MOREIRA</text>
+</svg>
